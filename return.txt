@@ -1,0 +1,2212 @@
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSAUX01</serverName>
+	<url>rdp://NT-FSAUX01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-fsbau01</serverName>
+	<url>rdp://NT-fsbau01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCBGX03</serverName>
+	<url>rdp://NT-DCBGX03:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-fsbhx01</serverName>
+	<url>rdp://nt-fsbhx01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSBHZ01</serverName>
+	<url>rdp://NT-FSBHZ01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-dcbir01</serverName>
+	<url>rdp://nt-dcbir01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSBUE01</serverName>
+	<url>rdp://NT-FSBUE01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCBVB01</serverName>
+	<url>rdp://NT-DCBVB01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSBVH01</serverName>
+	<url>rdp://NT-FSBVH01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCCAC02</serverName>
+	<url>rdp://NT-DCCAC02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSSAO06</serverName>
+	<url>rdp://NT-FSSAO06:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSCGB01</serverName>
+	<url>rdp://NT-FSCGB01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-fscgo01</serverName>
+	<url>rdp://nt-fscgo01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSCGR01</serverName>
+	<url>rdp://NT-FSCGR01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSCIT01</serverName>
+	<url>rdp://NT-FSCIT01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-dccol02</serverName>
+	<url>rdp://nt-dccol02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-fsCPQ01</serverName>
+	<url>rdp://NT-fsCPQ01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-fscri01</serverName>
+	<url>rdp://nt-fscri01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-fscwb02</serverName>
+	<url>rdp://nt-fscwb02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-fscxj01</serverName>
+	<url>rdp://nt-fscxj01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCHOB01</serverName>
+	<url>rdp://NT-DCHOB01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCDIV02</serverName>
+	<url>rdp://NT-DCDIV02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCERM01</serverName>
+	<url>rdp://NT-DCERM01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSFLN01</serverName>
+	<url>rdp://NT-FSFLN01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-fsfor01</serverName>
+	<url>rdp://NT-fsfor01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>10.44.53.79</serverName>
+	<url>rdp://10.44.53.79:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSGVR01</serverName>
+	<url>rdp://NT-FSGVR01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCGYN01</serverName>
+	<url>rdp://NT-DCGYN01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCHOB01</serverName>
+	<url>rdp://NT-DCHOB01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCHOB01</serverName>
+	<url>rdp://NT-DCHOB01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSIGU01</serverName>
+	<url>rdp://NT-FSIGU01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>10.44.53.162</serverName>
+	<url>rdp://10.44.53.162:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCITJ01</serverName>
+	<url>rdp://NT-DCITJ01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-fsjcb01</serverName>
+	<url>rdp://nt-fsjcb01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSJDF01</serverName>
+	<url>rdp://NT-FSJDF01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>10.44.55.93</serverName>
+	<url>rdp://10.44.55.93:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSJPA01</serverName>
+	<url>rdp://NT-FSJPA01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSJPR01</serverName>
+	<url>rdp://NT-FSJPR01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSLDB02</serverName>
+	<url>rdp://NT-FSLDB02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCLGS03</serverName>
+	<url>rdp://NT-DCLGS03:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-dclvb02</serverName>
+	<url>rdp://nt-dclvb02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSMAB01</serverName>
+	<url>rdp://NT-FSMAB01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSMAO01</serverName>
+	<url>rdp://NT-FSMAO01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCMCZ03</serverName>
+	<url>rdp://NT-DCMCZ03:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCMII01</serverName>
+	<url>rdp://NT-DCMII01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSMRG01</serverName>
+	<url>rdp://NT-FSMRG01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSMVD01</serverName>
+	<url>rdp://NT-FSMVD01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSNFR01</serverName>
+	<url>rdp://NT-FSNFR01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSPET01</serverName>
+	<url>rdp://NT-FSPET01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-dcpmi02</serverName>
+	<url>rdp://nt-dcpmi02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSPMW01</serverName>
+	<url>rdp://NT-FSPMW01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSPNZ01</serverName>
+	<url>rdp://NT-FSPNZ01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSPOA01</serverName>
+	<url>rdp://NT-FSPOA01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSPOU01</serverName>
+	<url>rdp://NT-FSPOU01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSPPB01</serverName>
+	<url>rdp://NT-FSPPB01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSRBR01</serverName>
+	<url>rdp://NT-FSRBR01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-fsrec02</serverName>
+	<url>rdp://nt-fsrec02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCRIB03</serverName>
+	<url>rdp://NT-DCRIB03:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSRIO02</serverName>
+	<url>rdp://NT-FSRIO02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCSAB02</serverName>
+	<url>rdp://NT-DCSAB02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCSAX01</serverName>
+	<url>rdp://NT-DCSAX01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-fsscl01</serverName>
+	<url>rdp://nt-fsscl01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSSCS01</serverName>
+	<url>rdp://NT-FSSCS01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>10.44.62.138</serverName>
+	<url>rdp://10.44.62.138:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-dcslz02</serverName>
+	<url>rdp://nt-dcslz02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCSMA01</serverName>
+	<url>rdp://NT-DCSMA01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSSOB01</serverName>
+	<url>rdp://NT-FSSOB01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCSOB02</serverName>
+	<url>rdp://NT-DCSOB02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSSOD01</serverName>
+	<url>rdp://NT-FSSOD01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>10.44.68.223</serverName>
+	<url>rdp://10.44.68.223:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCTUB02</serverName>
+	<url>rdp://NT-DCTUB02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCTXF01</serverName>
+	<url>rdp://NT-DCTXF01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSUBA01</serverName>
+	<url>rdp://NT-FSUBA01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSUBL01</serverName>
+	<url>rdp://NT-FSUBL01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSURG01</serverName>
+	<url>rdp://NT-FSURG01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>nt-fsvdc01</serverName>
+	<url>rdp://nt-fsvdc01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSVIX01</serverName>
+	<url>rdp://NT-FSVIX01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-FSVRE01</serverName>
+	<url>rdp://NT-FSVRE01:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
+<favorite>
+	<protocol>RDP</protocol>
+	<port>3389</port>
+	<serverName>NT-DCXAP02</serverName>
+	<url>rdp://NT-DCXAP02:3389/</url>
+	<name>NT-DCSSA02</name>
+	<credential>ADM.Gustavoas</credential>
+	<domainName>mercurio</domainName>
+	<userName>adm.gustavoas</userName>
+	<password>w@x8i3nbk</password>
+	<notes />
+	<desktopSize>AutoScale</desktopSize>
+	<desktopSizeHeight>600</desktopSizeHeight>
+	<desktopSizeWidth>800</desktopSizeWidth>
+	<colors>Bit16</colors>
+	<sounds>DontPlay</sounds>
+	<redirectClipboard>True</redirectClipboard>
+	<enableTLSAuthentication>True</enableTLSAuthentication>
+	<enableNLAAuthentication>True</enableNLAAuthentication>
+	<idleTimeout>240</idleTimeout>
+	<overallTimeout>600</overallTimeout>
+	<connectionTimeout>600</connectionTimeout>
+	<shutdownTimeout>10</shutdownTimeout>
+	<tags />
+	<newWindow>False</newWindow>
+	<toolBarIcon />
+	<bitmapPeristence>RDP</bitmapPeristence>
+</favorite>
